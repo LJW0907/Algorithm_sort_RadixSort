@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm_sort_RadixSort", "Algorithm_sort_RadixSort\Algorithm_sort_RadixSort.vcxproj", "{FEF62827-E799-49AF-9579-FB12B0B358C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF62827-E799-49AF-9579-FB12B0B358C3}.Debug|x64.ActiveCfg = Debug|x64
+		{FEF62827-E799-49AF-9579-FB12B0B358C3}.Debug|x64.Build.0 = Debug|x64
+		{FEF62827-E799-49AF-9579-FB12B0B358C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEF62827-E799-49AF-9579-FB12B0B358C3}.Debug|x86.Build.0 = Debug|Win32
+		{FEF62827-E799-49AF-9579-FB12B0B358C3}.Release|x64.ActiveCfg = Release|x64
+		{FEF62827-E799-49AF-9579-FB12B0B358C3}.Release|x64.Build.0 = Release|x64
+		{FEF62827-E799-49AF-9579-FB12B0B358C3}.Release|x86.ActiveCfg = Release|Win32
+		{FEF62827-E799-49AF-9579-FB12B0B358C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36352EE-C4E4-4DDF-884C-3D7F3AC1CB79}
+	EndGlobalSection
+EndGlobal
